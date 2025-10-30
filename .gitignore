@@ -1,0 +1,44 @@
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Backup files
+*.bak
+*.backup
+
+# Build artifacts
+dist/
+build/
+*.out
+
+# Node modules (if using web-based presentations)
+node_modules/
+
+# Python cache (if using Python examples)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Logs
+*.log
+logs/
